@@ -79,3 +79,10 @@ We're just getting started! Here’s what’s next:
 
 ---
 
+
+## Setup
+Create .env file with huggingface token - HF_TOKEN = "Your huggingface access token here"
+```bash
+pip install -r requirements.txt
+python edexai.py
+
