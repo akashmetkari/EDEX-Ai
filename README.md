@@ -1,4 +1,4 @@
-# 💡 SexEd AI: Empowering Safe & Informed Choices through RAG-based AI
+# 💡 EDEX-Ai: Empowering Safe & Informed Choices through RAG-based AI
 
 ### 🚀 Revolutionizing Sex Education for the Modern Age using Retrieval-Augmented Generation (RAG)
 
@@ -18,9 +18,9 @@ This lack of knowledge often leads to:
 
 ---
 
-## 💡 Our Solution: SexEd AI
+## 💡 Our Solution: EDEX-Ai
 
-**SexEd AI** is an **AI-powered, RAG-based conversational assistant** built to democratize access to verified, non-judgmental sex education using state-of-the-art language models.
+**EDEX-Ai** is an **AI-powered, RAG-based conversational assistant** built to democratize access to verified, non-judgmental sex education using state-of-the-art language models.
 
 It retrieves accurate responses from **two highly credible books**:
 
@@ -47,7 +47,7 @@ Using **Retrieval-Augmented Generation (RAG)**, the system combines the power of
 - 🌱 **Promotes Safe Practices**: Reduces misinformation, risky behaviors, and emotional harm  
 - 💬 **Encourages Consent Culture**: Promotes respect, boundaries, and healthy communication  
 
-> By making sex education accessible, **SexEd AI contributes directly to**  
+> By making sex education accessible, **EDEX-Ai contributes directly to**  
 > 🎯 **SDG 3: Good Health and Well-being**  
 > 📘 **SDG 4: Quality Education**
 
@@ -65,7 +65,7 @@ We're just getting started! Here’s what’s next:
 
 ---
 
-## 🏆 Why SexEd AI Deserves First Prize
+## 🏆 Why EDEX-Ai Deserves First Prize
 
 - ✅ **Identified a Real and Often Ignored Problem**  
 - ✅ **Offered a Safe, Scalable AI-Driven Solution with High Relevance**  
@@ -75,7 +75,7 @@ We're just getting started! Here’s what’s next:
 ---
 
 > 🧠 _“The goal isn’t to make sex less awkward. It’s to make knowledge more empowering.”_  
-> **SexEd AI** is not just a project. It’s a **movement for safer, smarter, stigma-free choices.**
+> **EDEX-Ai** is not just a project. It’s a **movement for safer, smarter, stigma-free choices.**
 
 ---
 
